@@ -3,7 +3,7 @@
 Segue abaixo os links para os protótipos no figma
 
 ### Alunos -
-Gabriel Nascimento
+Gabriel Nascimento /n
 Thauan Felipe
 
 ## Versão Mobile
